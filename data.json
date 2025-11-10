@@ -1,3 +1,4 @@
+
 {
   "promotionalSlides": [
     {
@@ -15,29 +16,154 @@
   ],
   "properties": [
     {
-      "name": "Villa Hebat",
-      "location": "Lokasi Keren, Tawangmangu",
-      "price": "Rp 1.500.000",
-      "imageUrl": "https://example.com/gambar_utama.jpg",
-      "webUrl": "https://example.com/halaman_booking_villa",
-      "facilities": ["Wifi Cepat", "Kolam Renang"],
+      "name": "Villa FJ",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 2.000.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5830.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["4 Kamar tidur", "Kolam renang", "Rooftop"],
       "rating": 4.9,
-      "slideImages": [
-        "https://example.com/villa_slide1.jpg",
-        "https://example.com/villa_slide2.jpg"
-      ]
+      "slideImages": []
     },
     {
-      "name": "Glamping Asik",
-      "location": "Pemandangan Indah, Tawangmangu",
-      "price": "Rp 800.000",
-      "imageUrl": "https://example.com/glamping_utama.jpg",
-      "webUrl": "https://example.com/halaman_booking_glamping",
-      "facilities": ["Api Unggun"],
+      "name": "Villa DT",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 2.000.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5818.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["4 Kamar tidur", "Kolam renang", "Karaoke"],
+      "rating": 4.8,
+      "slideImages": []
+    },
+    {
+      "name": "Villa ALM",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 1.500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5824.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["3 kamar tidur", "Netflix", "Kolam renang"],
+      "rating": 4.8,
+      "slideImages": []
+    },
+    {
+      "name": "Villa TD JW",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 1.500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5821.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["3 Kamar tidur", "Meja biliar", "Kolam renang"],
       "rating": 4.7,
-      "slideImages": [
-        "https://example.com/glamping_slide1.jpg"
-      ]
+      "slideImages": []
+    },
+    {
+      "name": "KRYSM",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 2.000.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5828.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["3 Kamar Tidur", "Smart TV", "Karaoke"],
+      "rating": 4.8,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping DYN",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5817.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Private pool hangat", "Smart TV", "Free breakfast"],
+      "rating": 4.7,
+      "slideImages": []
+    },
+    {
+      "name": "Mongkrang SC",
+      "location": "Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5815.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["1 Bed", "TV Android", "View Gunung Lawu"],
+      "rating": 4.6,
+      "slideImages": []
+    },
+    {
+      "name": "DZ Glamping",
+      "location": "Tawangmangu",
+      "price": "Rp 550.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5827.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Private Pool Air Hangat", "Smart TV", "Free BBQ"],
+      "rating": 4.7,
+      "slideImages": []
+    },
+    {
+      "name": "ZHY Glamping",
+      "location": "Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5825.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Private pool", "Smart TV", "Mini kitchen"],
+      "rating": 4.6,
+      "slideImages": []
+    },
+    {
+      "name": "AZL Glamping",
+      "location": "Pleseran, Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5831.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Mini private pool", "Free breakfast", "Free BBQ"],
+      "rating": 4.8,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping Ulya",
+      "location": "Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://raw.githubusercontent.com/elfarsaf-dev/Heu/main/rt/WhatsApp%20Image%202025-09-27%20at%2018.36.31_028d071b.jpg",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Private Pool Air Hangat", "Smart TV", "Free Breakfast"],
+      "rating": 4.7,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping Agung",
+      "location": "Tawangmangu",
+      "price": "Rp 1.000.000",
+      "imageUrl": "https://raw.githubusercontent.com/elfarsaf-dev/Heu/main/telo/depan%20gma.jpeg",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Kolam renang bersama", "2 Kamar", "Set Karaoke"],
+      "rating": 4.9,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping SRN",
+      "location": "Tawangmangu",
+      "price": "Rp 550.000",
+      "imageUrl": "https://raw.githubusercontent.com/elfarsaf-dev/Heu/main/rt/WhatsApp%20Image%202025-09-25%20at%2018.09.23_190b7e61.jpg",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Kolam Renang Dingin", "Taman Luas", "Bathtub"],
+      "rating": 4.6,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping SRN Tipe Lancip",
+      "location": "Tawangmangu",
+      "price": "Rp 500.000",
+      "imageUrl": "https://raw.githubusercontent.com/elfarsaf-dev/Heu/main/rt/WhatsApp%20Image%202025-09-25%20at%2018.09.08_facc2b9b.jpg",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Kolam Renang Dingin", "Taman Luas", "Bathtub"],
+      "rating": 4.7,
+      "slideImages": []
+    },
+    {
+      "name": "Glamping SVG",
+      "location": "Sekipan, Tawangmangu",
+      "price": "Rp 900.000",
+      "imageUrl": "https://github.com/elfarsaf-dev/lawuscape-/blob/main/Gambar/IMG_5839.jpeg?raw=true",
+      "webUrl": "https://www.bosvillatawangmangu.my.id/",
+      "facilities": ["Private pool air hangat", "Double Bed", "Free breakfast"],
+      "rating": 4.8,
+      "slideImages": []
     }
   ]
 }
