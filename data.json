@@ -1,0 +1,43 @@
+{
+  "promotionalSlides": [
+    {
+      "imageUrl": "https://images.reddoorz.com/banner/id/336/OFFER_BANNER_796x394__53_.png?w=626",
+      "targetUrl": "https://www.bosvillatawangmangu.my.id/"
+    },
+    {
+      "imageUrl": "https://images.reddoorz.com/banner/id/337/MSITE_BANNER_1029x510.jpg?w=626",
+      "targetUrl": "https://www.bosvillatawangmangu.my.id/"
+    },
+    {
+      "imageUrl": "https://images.reddoorz.com/banner/id/330/MSITE_BANNER_1029x510__22_.png?w=626",
+      "targetUrl": "https://www.bosvillatawangmangu.my.id/"
+    }
+  ],
+  "properties": [
+    {
+      "name": "Villa Hebat",
+      "location": "Lokasi Keren, Tawangmangu",
+      "price": "Rp 1.500.000",
+      "imageUrl": "https://example.com/gambar_utama.jpg",
+      "webUrl": "https://example.com/halaman_booking_villa",
+      "facilities": ["Wifi Cepat", "Kolam Renang"],
+      "rating": 4.9,
+      "slideImages": [
+        "https://example.com/villa_slide1.jpg",
+        "https://example.com/villa_slide2.jpg"
+      ]
+    },
+    {
+      "name": "Glamping Asik",
+      "location": "Pemandangan Indah, Tawangmangu",
+      "price": "Rp 800.000",
+      "imageUrl": "https://example.com/glamping_utama.jpg",
+      "webUrl": "https://example.com/halaman_booking_glamping",
+      "facilities": ["Api Unggun"],
+      "rating": 4.7,
+      "slideImages": [
+        "https://example.com/glamping_slide1.jpg"
+      ]
+    }
+  ]
+}
